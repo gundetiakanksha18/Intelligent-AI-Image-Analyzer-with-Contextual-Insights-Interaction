@@ -1,0 +1,2 @@
+# Intelligent-AI-Image-Analyzer-with-Contextual-Insights-Interaction
+This project builds an AI-powered image analyzer using Gemini API and Streamlit to understand images in real time. Users can upload images to get descriptions, object detection, context, and safety insights. The system also allows users to ask questions about images, turning visual data into useful information for decision-making and analysis.
